@@ -6,3 +6,8 @@
     text-decoration: none;
     list-style-type: none;
 }
+.nav {
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
